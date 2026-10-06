@@ -1,0 +1,22 @@
+# Maven
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Node & Frontend
+node_modules/
+react-frontend/node_modules/
+react-frontend/dist/
+*.log
+
+# IDE & Editor
+.idea/
+*.iml
+.vscode/
+.claude/
+.DS_Store
+
+# OS
+Thumbs.db
